@@ -1,0 +1,19 @@
+Primeiro commit desenvolvido no curso de laravel do code.education
+
+Principais funções:
+
+Para configurar:
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+Clonar:
+
+git clone url
+
+git add .
+git commit -m "mensagem"
+
+git commit -a -m "mensagem" -> fazer add junto com o commit
+
+git push origin master
